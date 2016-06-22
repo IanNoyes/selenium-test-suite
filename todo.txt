@@ -1,0 +1,16 @@
+/************************************************************
+ This is a to do list for selenium-test-suite
+ ************************************************************/
+
+	# Define scope of project
+	# Configure docker environment for testing tools
+		# Fix the firefox driver
+		# Make tests run headless
+	# Establish tests to run on all sites
+		# Screenshots?
+		# JS Console output?
+	# Write checks for plugins
+		# RevSlider
+		# Visual Composer
+	# Write specific tests for each plugin
+	# Create test object models
