@@ -1,0 +1,14 @@
+{
+    "name": "ian12sm/selenium-tester",
+    "description": "Testing suite for 12sm",
+    "authors": [
+        {
+            "name": "Ian Noyes",
+            "email": "ian@12southmusic.com"
+        }
+    ],
+    "require": {
+        "facebook/webdriver": "1.0.1",
+        "phpunit/phpunit": "^5.3"
+    }
+}
